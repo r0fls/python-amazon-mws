@@ -1,3 +1,5 @@
+Fork of https://github.com/czpython/python-amazon-mws with python3 support.
+
 # ** DISCLAIMER **
 This API is in constant development. Do not rely on it too much until its in stable release.
 All except for the last two APIs ( InboundShipment and OutboundShipment ) are complete.
